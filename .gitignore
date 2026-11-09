@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+backups/
+reports/
+*.bak
+*.save
+*.v2
+*.csp-backup
